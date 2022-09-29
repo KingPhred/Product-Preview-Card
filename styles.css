@@ -28,7 +28,7 @@ body {
     vertical-align: top;
     border-top-right-radius: 12px;
     border-bottom-right-radius: 12px;
-    margin-top: 4.7rem;
+    margin-top: 4.762rem;
     background-color: white;
     text-align: left;
     padding: 1rem .8rem;
@@ -152,4 +152,9 @@ a:visited {
         border-top-right-radius: 0;
         border-bottom-left-radius: 12px;
     }
+
+    .cart-icon {
+        position: relative;
+        top: 2.3rem;
+        left: 5.5rem;
 }
